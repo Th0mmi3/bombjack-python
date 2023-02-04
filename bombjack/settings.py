@@ -1,0 +1,7 @@
+sWidth = 640
+sHeight = 880
+
+GAME_FLOOR = 880 - 80
+GAME_CEILING = 60 + 15
+
+GAME_LENGTH = 725
